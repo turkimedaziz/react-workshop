@@ -1,0 +1,7 @@
+/* Slide: "Styling components - vanilla css"
+   Plain CSS is global: any other file using the class "listGroup" would clash with this one. */
+.listGroup {
+  list-style-type: none;
+  color: white;
+  background-color: dodgerblue;
+}

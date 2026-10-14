@@ -1,0 +1,7 @@
+/* Slide: "Styling components - Css modules"
+   Class names are scoped to the component that imports this file, so no clashes. */
+.listGroup {
+  list-style-type: none;
+  color: white;
+  background-color: dodgerblue;
+}
